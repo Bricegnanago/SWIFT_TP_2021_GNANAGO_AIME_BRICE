@@ -1,4 +1,4 @@
-"# SWIFT_TP_2021_GNANAGO_AIME_BRICE" 
+# SWIFT_TP_2021_GNANAGO_AIME_BRICE
 
 
 ## Exercice 1 (Dictionnaire)
